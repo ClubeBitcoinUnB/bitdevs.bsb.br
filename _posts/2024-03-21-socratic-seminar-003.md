@@ -34,7 +34,6 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/299838326/
 * [v3 transaction policy for anti-pinning - PR merged](https://github.com/bitcoin/bitcoin/pull/28948)
 * [Block Stalling Bug no Core - Corrigido na v22.0](https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499)
 * [CTV Playground](https://ctv.ursus.camp/)
-* [Protótipo de Vaults com OP_CAT]()
 * [Ecash e Lightning com ZKCP](https://delvingbitcoin.org/t/ecash-and-lightning-via-zkcp/586)
 * [Instruções de pagamento baseadas em DNSSEC](https://delvingbitcoin.org/t/human-readable-bitcoin-payment-instructions/542/)
 * [Implementação Onchain de Futuros de Mining Feerate](https://delvingbitcoin.org/t/an-onchain-implementation-of-mining-feerate-futures/547)
