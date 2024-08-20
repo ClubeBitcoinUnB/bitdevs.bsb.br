@@ -56,6 +56,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/302933909/
 - [Taproot Assets LN Channels](https://x.com/lightning/status/1815768786752164213)
 - [Last mile solutions for LN](https://bitcoinmagazine.com/technical/assessing-the-lightning-networks-last-mile-solutions)
 - [Ark Labs latest release](https://x.com/ArkLabsHQ/status/1825542684553203722)
+- [BitVM2 and BitVM Bridge](https://x.com/alexeiZamyatin/status/1824034904516051335)
 
 ### Cryptography
 - [FROST RFC](https://x.com/conradoplg/status/1808612054200373757)
