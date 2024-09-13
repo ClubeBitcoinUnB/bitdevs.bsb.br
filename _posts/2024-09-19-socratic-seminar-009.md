@@ -25,6 +25,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/303400044/
 - [Project Manager needed](https://primal.net/e/note18csa0uc785yr57phl45zkle8xm73xc8er3j7z7jay85zxh06z4hsdtcvjl)
   - [o que é ser um PM](https://primal.net/e/note1xkk5zgav2drku9cnj3ery3gy0yhkd869vwkhzsvt5ctnr54amtqs92mgel)
   - [como começar a ser um OSS PM](https://primal.net/e/note1tqz02m0ftyjng7h0ggw4cexvu3erta9mrgr82h34sgtg537kc2qql8r37m)
+- [LONG-TERM SUPPORT FOR JASON DONENFELD (OpenSats)](https://x.com/OpenSats/status/1834352182570963443)
 - [Bitaxe achou um bloco](https://mempool.space/tx/fe75e7d6e9f1c73f77c3dbeddd911dc6fbb8bcf98b7a37fec1820adba989e378)
 - [Apple App Store censurando aplicativos de VPN](https://x.com/protonvpn/status/1825181045035074016)
 - [Mutiny wallet foi de arrasta pra cima](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
