@@ -59,6 +59,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/303400044/
 
 ### Lightning
 
+- [first 0-fee lightning commitment transaction](https://x.com/realtbast/status/1834213774674247987)
 - [Bolt11 em C# / .NET](https://x.com/ngoline/status/1828193300546724236)
 - [Zeus v0.9.0](https://github.com/ZeusLN/zeus/releases/tag/v0.9.0)
 - [ZaPin](https://github.com/MiguelMedeiros/zapin.me)
