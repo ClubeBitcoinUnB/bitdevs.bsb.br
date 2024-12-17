@@ -28,6 +28,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305087735/
 
 ### Bitcoin
 
+- [Proposta para abordar no curto prazo a ameaça de longo prazo de computadores quânticos](https://groups.google.com/g/bitcoindev/c/8O857bRSVV8/m/4cM-7pf4AgAJ)
 - [Boost Your Bitcoin Node Sync With UTXO Snapshots](https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/)
 - [Consenso dos devs sobre Covenants](https://x.com/theonevortex/status/1864361295308574936)    
 - [Lark is a Java port of HWI](https://x.com/craigraw/status/1863882416546271714)
@@ -43,7 +44,6 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305087735/
     - [E blog post da Strata bridge](https://www.alpenlabs.io/blog/introducing-the-strata-bridge)
 - [how lava.xyz, the latest bitcoin lending swap service works](https://open.substack.com/pub/chainfail/p/swap-it-like-its-hot)
 - [Disclosure: irrevocable fees—stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314)
-
 
 ### Ecash
 
