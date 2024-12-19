@@ -36,6 +36,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305087735/
 - [HWI implementation in Rust](https://github.com/wizardsardine/async-hwi)
 - [Bitcoin Core through 27.2 allows transaction-relay jamming via an off-chain protocol attack CVE-2024-55563](https://github.com/advisories/GHSA-82x2-v3jv-gmrq)
 - [Proton Wallet Encryption Vulnerability](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/#2--proton-wallet-encryption-vulnerability)
+- [8.18BTC de taxa para mandar 0.1421BTC](https://x.com/mononautical/status/1869875248813797619)
 - [BDK 1.0.0 released](https://github.com/bitcoindevkit/bdk/releases/tag/wallet-1.0.0)
 
 ### Lightning e L2
