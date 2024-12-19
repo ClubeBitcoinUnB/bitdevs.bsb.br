@@ -29,6 +29,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305087735/
 ### Bitcoin
 
 - [Proposta para abordar no curto prazo a ameaça de longo prazo de computadores quânticos](https://groups.google.com/g/bitcoindev/c/8O857bRSVV8/m/4cM-7pf4AgAJ)
+- [BIP-360: P2QRH](https://github.com/bitcoin/bips/pull/1670)
 - [Boost Your Bitcoin Node Sync With UTXO Snapshots](https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/)
 - [Consenso dos devs sobre Covenants](https://x.com/theonevortex/status/1864361295308574936)    
 - [Lark is a Java port of HWI](https://x.com/craigraw/status/1863882416546271714)
