@@ -35,13 +35,14 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305087735/
 - [HWI implementation in Rust](https://github.com/wizardsardine/async-hwi)
 - [Bitcoin Core through 27.2 allows transaction-relay jamming via an off-chain protocol attack CVE-2024-55563](https://github.com/advisories/GHSA-82x2-v3jv-gmrq)
 - [Proton Wallet Encryption Vulnerability](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/#2--proton-wallet-encryption-vulnerability)
+- [BDK 1.0.0 released](https://github.com/bitcoindevkit/bdk/releases/tag/wallet-1.0.0)
 
 ### Lightning e L2
 
 - [launching Rootstock Chain Swaps na Boltz](https://x.com/michael1011at/status/1863649587040248231)
 - [Explicação de shielded CSV](https://x.com/n1ckler/status/1863619610513195384)
 - [Strata bridge](https://xcancel.com/AlpenLabs/status/1864421325793624191)
-    - [E blog post da Strata bridge](https://www.alpenlabs.io/blog/introducing-the-strata-bridge)
+- [E blog post da Strata bridge](https://www.alpenlabs.io/blog/introducing-the-strata-bridge)
 - [how lava.xyz, the latest bitcoin lending swap service works](https://open.substack.com/pub/chainfail/p/swap-it-like-its-hot)
 - [Disclosure: irrevocable fees—stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314)
 
