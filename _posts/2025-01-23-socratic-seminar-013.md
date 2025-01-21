@@ -44,7 +44,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305709801/
 - [Live Wallet v1.0.0: Transaction Privacy Analysis & Output Labeling](https://www.nobsbitcoin.com/live-wallet-v1-0-0/)
 - [Backing a multisig](https://x.com/_benkaufman/status/1344686741513449474)
 - [Nunchuck Taproot multisig](https://www.nobsbitcoin.com/nunchuk-launches-taproot-multisig-wallets-beta-on-mobile/)
-- [How to run an economic node | stacker news](https://stacker.news/items/842044)
+- [How to run an economic node](https://stacker.news/items/842044)
 - [Bitcoin e a Ameaça Quântica (Um Dossiê Técnico)](https://youtu.be/DgEqFPc24C4?si=eSCQj3B-O9-53bSt)
 
 
