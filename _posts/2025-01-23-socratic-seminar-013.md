@@ -20,6 +20,8 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305709801/
 
 ### Aquecimento
 
+- Combinar data do Bitdevs de Fevereiro, considerando BTC++
+- Apresentação do Nic sobre implementação técnica do Cartão de Crédito da Bipa
 - [AnchorWatch Launches in the U.S. for Customers Holding Between $250K & $100M in Bitcoin](https://www.nobsbitcoin.com/anchorwatch-launches-in-the-u-s-for-customers-holding-between-250k-100m-in-bitcoin/)
 - [Mi Primer Bitcoin Launches Updated Bitcoin Diploma 2025](https://www.nobsbitcoin.com/mi-primer-bitcoin-launches-updated-bitcoin-diploma-2025/) 
 - [Foundry refunds 8.18BTC fee](https://x.com/FoundryServices/status/1872629580487426221)
