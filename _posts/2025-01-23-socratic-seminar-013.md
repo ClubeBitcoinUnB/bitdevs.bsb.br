@@ -30,6 +30,8 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305709801/
 - [The two-pronged Eleventh Hour IRS squeeze on Bitcoin and crypto developers](https://www.therage.co/the-biden-irss-two-pronged-2/) 
 - [IRS has finalized a rule subjecting non-custodial trading services to IRS reporting requirements](https://www.therage.co/broker-rule-irs-requires-non-custodial-services-to-report-trading-information/)
 - [Bukele quer instalar um nó de Bitcoin em cada casa em El Salvador](https://news.bit2me.com/en/El-Salvador-aims-for-bitcoinization-by-2025)
+- [Texas District Court reverses Tornado Cash sanctions](https://fxtwitter.com/BitcoinMagazine/status/1882011429022421474)
+- [Trump Perdoa Ross Ulbricht](https://truthsocial.com/@realDonaldTrump/posts/113869112741612092)
 
 
 ### Bitcoin
