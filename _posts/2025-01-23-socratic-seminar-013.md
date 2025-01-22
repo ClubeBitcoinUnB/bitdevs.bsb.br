@@ -54,6 +54,9 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305709801/
 - [Spark (L2 para extender a LN)](https://spark.info/)
 - [Bitcoin Output Script Descriptor (BOSD) to address issues of expressiveness, succinctness, and correctness when specifying Bitcoin transaction output types and standardness rules, particularly for L2 withdrawals.](https://github.com/alpenlabs/bitcoin-bosd)
 
+### Vulnerabilidades
+
+- [Vulnerabilidade de Desanonimização 0-Click](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 
 ### Mineração
 
