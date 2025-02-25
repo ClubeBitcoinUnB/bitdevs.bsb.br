@@ -20,6 +20,8 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305709801/
 
 ### Aquecimento
 
+- Combinar data do Bitdevs de Fevereiro, considerando BTC++
+- Apresentação do Nic da Bipa
 - [AnchorWatch Launches in the U.S. for Customers Holding Between $250K & $100M in Bitcoin](https://www.nobsbitcoin.com/anchorwatch-launches-in-the-u-s-for-customers-holding-between-250k-100m-in-bitcoin/)
 - [Mi Primer Bitcoin Launches Updated Bitcoin Diploma 2025](https://www.nobsbitcoin.com/mi-primer-bitcoin-launches-updated-bitcoin-diploma-2025/) 
 - [Foundry refunds 8.18BTC fee](https://x.com/FoundryServices/status/1872629580487426221)
@@ -28,6 +30,8 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305709801/
 - [The two-pronged Eleventh Hour IRS squeeze on Bitcoin and crypto developers](https://www.therage.co/the-biden-irss-two-pronged-2/) 
 - [IRS has finalized a rule subjecting non-custodial trading services to IRS reporting requirements](https://www.therage.co/broker-rule-irs-requires-non-custodial-services-to-report-trading-information/)
 - [Bukele quer instalar um nó de Bitcoin em cada casa em El Salvador](https://news.bit2me.com/en/El-Salvador-aims-for-bitcoinization-by-2025)
+- [Texas District Court reverses Tornado Cash sanctions](https://fxtwitter.com/BitcoinMagazine/status/1882011429022421474)
+- [Trump Perdoa Ross Ulbricht](https://truthsocial.com/@realDonaldTrump/posts/113869112741612092)
 
 
 ### Bitcoin
@@ -42,7 +46,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305709801/
 - [Live Wallet v1.0.0: Transaction Privacy Analysis & Output Labeling](https://www.nobsbitcoin.com/live-wallet-v1-0-0/)
 - [Backing a multisig](https://x.com/_benkaufman/status/1344686741513449474)
 - [Nunchuck Taproot multisig](https://www.nobsbitcoin.com/nunchuk-launches-taproot-multisig-wallets-beta-on-mobile/)
-- [How to run an economic node | stacker news](https://stacker.news/items/842044)
+- [How to run an economic node](https://stacker.news/items/842044)
 - [Bitcoin e a Ameaça Quântica (Um Dossiê Técnico)](https://youtu.be/DgEqFPc24C4?si=eSCQj3B-O9-53bSt)
 
 
@@ -52,6 +56,9 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/305709801/
 - [Spark (L2 para extender a LN)](https://spark.info/)
 - [Bitcoin Output Script Descriptor (BOSD) to address issues of expressiveness, succinctness, and correctness when specifying Bitcoin transaction output types and standardness rules, particularly for L2 withdrawals.](https://github.com/alpenlabs/bitcoin-bosd)
 
+### Vulnerabilidades
+
+- [Vulnerabilidade de Desanonimização 0-Click](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 
 ### Mineração
 
