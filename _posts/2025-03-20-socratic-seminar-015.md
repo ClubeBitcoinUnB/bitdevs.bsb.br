@@ -46,6 +46,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/306782698/
 
 ### Lightning e L2
 
+- [Implementation of the Ark protocol on signet](https://x.com/2ndbtc/status/1902400806659514562)
 - [ZEUS v0.10.0](https://x.com/zeusln/status/1900169282996035987)
 - [LND: Excessive Failback Exploit](https://morehouse.github.io/lightning/lnd-excessive-failback-exploit/)
 - [Phoenix 2.5.0 has been released](https://x.com/PhoenixWallet/status/1896978681626862038)
