@@ -49,6 +49,8 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/307380347/
 - [Against Allowing Quantum Recovery of Bitcoin](https://mailing-list.bitcoindevs.xyz/bitcoindev/CADL_X_cF=UKVa7CitXReMq8nA_4RadCF==kU4YG+0GYN97P6hQ@mail.gmail.com/#r)
 - [Taplocks](https://x.com/rot13maxi/status/1909252898170564621)
 - [The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework](https://payjoindevkit.org/2025/03/18/the-evolution-of-payjoin/)
+- [policy: allow more than one OP_RETURN outputs per tx](https://github.com/bitcoin/bitcoin/pull/32381)
+- [Remove arbitrary limits on OP_Return (datacarrier) outputs](https://github.com/bitcoin/bitcoin/pull/32359)
 
 
 ### Lightning e L2
