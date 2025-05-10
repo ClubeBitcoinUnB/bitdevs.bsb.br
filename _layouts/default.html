@@ -1,20 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
+    {% include head.html %}
 
-{% include head.html %}
+    <body>
+        <div class="Site">
+            {% include header.html %}
 
-<body>
+            {{ content }}
 
-  <div class="Site">
+            {% include footer.html %}
+        </div>
 
-    {% include header.html %}
-
-    {{ content }}
-
-    {% include footer.html %}
-
-  <div>
-
-</body>
-
+        <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+    </body>
 </html>
