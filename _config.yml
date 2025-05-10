@@ -13,8 +13,7 @@ title: "BitDevs em Português"
 description: "BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados."
 
 # Leave out some files
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
+exclude: ["README.md", "Gemfile", "Gemfile.lock", ".sass-cache"]
 
 # Render events with a future date
 future: true
-
