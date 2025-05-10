@@ -7,13 +7,13 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/300365040/
 
 ## Avisos
 
-- Entrem no grupo do Whatsapp "[BitdevsBSB](https://chat.whatsapp.com/KxuGyYu4TZy94KcA1yXCzi)" para ajudar na curadoria dos encontros!
-- Respeite a privacidade dos participantes.
-- Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.
+* Entrem no grupo do Whatsapp "[BitdevsBSB](https://chat.whatsapp.com/KxuGyYu4TZy94KcA1yXCzi)" para ajudar na curadoria dos encontros!
+* Respeite a privacidade dos participantes.
+* Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.
 
 ## Agradecimentos
 
-- Agradecemos a Vinteum e David Bailey por patrocinar as comidas e bebidas.
+* Agradecemos à Vinteum e David Bailey por patrocinar as comidas e bebidas.
 
 ## Aquecimento
 
