@@ -1,0 +1,33 @@
+{
+  "plugins": ["@shopify/prettier-plugin-liquid"],
+  "overrides": [
+    {
+      "files": ["*.html", "*.md"],
+      "options": {
+        "parser": "liquid-html",
+        "singleQuote": false,
+        "printWidth": 100,
+        "tabWidth": 4
+      }
+    },
+    {
+      "files": ["_includes/*.html", "_layouts/*.html"],
+      "options": {
+        "parser": "liquid-html",
+        "singleQuote": false,
+        "printWidth": 100,
+        "tabWidth": 4,
+        "liquidSingleQuote": false
+      }
+    },
+    {
+      "files": ["*.scss", "*.css"],
+      "options": {
+        "parser": "scss",
+        "singleQuote": false,
+        "printWidth": 100,
+        "tabWidth": 4
+      }
+    }
+  ]
+}

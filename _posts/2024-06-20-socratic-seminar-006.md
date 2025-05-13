@@ -7,13 +7,13 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/301584745/
 
 ## Avisos
 
-- Entrem no grupo do Whatsapp "[BitdevsBSB](https://chat.whatsapp.com/KxuGyYu4TZy94KcA1yXCzi)" para ajudar na curadoria dos encontros!
-- Respeite a privacidade dos participantes.
-- Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.
+* Entrem no grupo do Whatsapp "[BitdevsBSB](https://chat.whatsapp.com/KxuGyYu4TZy94KcA1yXCzi)" para ajudar na curadoria dos encontros!
+* Respeite a privacidade dos participantes.
+* Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.
 
 ## Agradecimentos
 
-- Agradecemos a Vinteum e David Bailey por patrocinar as comidas e bebidas.
+* Agradecemos à Vinteum e David Bailey por patrocinar as comidas e bebidas.
 
 ## Cronograma
 
@@ -34,13 +34,13 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/301584745/
 ### Bitcoin
 
 * [Silent Payments BIP merged](https://twitter.com/reardencode/status/1788577217884364861)
-    - [Silent Payments: Light Client Protocol](https://delvingbitcoin.org/t/silent-payments-light-client-protocol/891)
-    - [Light Client Spec](https://github.com/setavenger/BIP0352-light-client-specification)
-    - [Silentium - Silent payments enabled wallet](https://twitter.com/TheSingerLouis/status/1790824126472667227)
-    - [Silent Payments + Swap-in-Potentiam = Unified Balance](https://x.com/josibake/status/1795790558696235132)
+    * [Silent Payments: Light Client Protocol](https://delvingbitcoin.org/t/silent-payments-light-client-protocol/891)
+    * [Light Client Spec](https://github.com/setavenger/BIP0352-light-client-specification)
+    * [Silentium - Silent payments enabled wallet](https://twitter.com/TheSingerLouis/status/1790824126472667227)
+    * [Silent Payments + Swap-in-Potentiam = Unified Balance](https://x.com/josibake/status/1795790558696235132)
 * [Rusty's great script restoration project](https://twitter.com/reardencode/status/1786403843141505416)
 * [Signing a Bitcoin Transaction with Lamport Signatures (no changes needed)](https://bitcoinops.org/en/newsletters/2024/05/08/#consensus-enforced-lamport-signatures-on-top-of-ecdsa-signatures)
-    - [mailing-list.bitcoindevs.xyz](https://mailing-list.bitcoindevs.xyz/bitcoindev/CAEM=y+XyW8wNOekw13C5jDMzQ-dOJpQrBC+qR8-uDot25tM=XA@mail.gmail.com/#r)
+    * [mailing-list.bitcoindevs.xyz](https://mailing-list.bitcoindevs.xyz/bitcoindev/CAEM=y+XyW8wNOekw13C5jDMzQ-dOJpQrBC+qR8-uDot25tM=XA@mail.gmail.com/#r)
 * [BIP de Miniscript por A. Chow](https://mailing-list.bitcoindevs.xyz/bitcoindev/0be34bd2-637b-44b1-a0d5-e0ad5812d505@achow101.com/)
 * [FE'd Up Covenants](https://x.com/jeremyrubin/status/1797339016439685440)
 * [Silentium Wallet Review](https://x.com/callebtc/status/1796492640390938710)

@@ -1,25 +1,38 @@
 .Footer {
-  margin-top: 2rem;
+    margin-top: 2rem;
 
-  &-border {
-    opacity: 0.4;
-    margin-bottom: 1em;
-    overflow: hidden;
-    user-select: none;
-  }
-
-  &-inner {
-    display: flex;
-    justify-content: space-between;
-
-    a {
-      color: #333;
-      opacity: 0.4;
-
-      &:hover {
-        color: $primary-color;
-        opacity: 1;
-      }
+    &-border {
+        opacity: 0.4;
+        margin-bottom: 1em;
+        overflow: hidden;
+        user-select: none;
     }
-  }
+
+    &-inner {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-direction: column;
+
+        @media (min-width: 450px) {
+            flex-direction: row;
+            align-items: flex-start;
+        }
+
+        a {
+            color: var(--font-color);
+            opacity: 0.4;
+            margin-top: 1rem;
+            display: block;
+
+            @media (min-width: 450px) {
+                margin-top: 0;
+            }
+
+            &:hover {
+                color: var(--primary-color);
+                opacity: 1;
+            }
+        }
+    }
 }
