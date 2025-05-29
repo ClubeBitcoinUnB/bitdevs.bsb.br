@@ -29,6 +29,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/308024313/
 
 * [Primeira conferência de Bitcoin e IA. Breno vai palestrar.](https://x.com/brenorb/status/1920993468735701242)
 * [Satoshis are proposed to oficially be satoshis](https://github.com/bitcoin/bips/pull/1841)
+* [10 changes that made to what became Bitcoin as we know it today](https://x.com/raw_avocado/status/1916909232030450163)
 * [Stake n' Shake now accepts LN payments](https://x.com/BitcoinMagazine/status/1923225678603784674)
 * [Explaining ark](https://x.com/neha/status/1924854644880105709)
 
@@ -39,6 +40,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/308024313/
 * [Weighted multisig](https://x.com/mononautical/status/1921012232747421892?s=46)
 * [Peach group hug](https://x.com/peachbitcoin/status/1921147023262146785?s=46)
 * [Solving Bitcoin quantum threat](https://www.youtube.com/watch?v=4NoJnPmCVdU)
+* [Chaincode report - Is Bitcoin ready for the quantum era?](http://chaincode.com/bitcoin-post-quantum.pdf)
 * [First mainnet use of the Taproot Annex](https://x.com/mononautical/status/1921180666831499737)
     * [Second jpeg has hit the annex](https://x.com/mononautical/status/1921557253368295733)
     * [BIP 341 specifies an additional witness data they call the annex.](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)
@@ -55,6 +57,8 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/308024313/
 
 ### Lightning e L2
 
+* [Arkade is the Virtual Execution Layer for Bitcoin-Native Applications](https://x.com/ArkLabsHQ/status/1927723989339922461)
+    * [Arkade let's you run custom opcodes withing VTXOs](https://x.com/bergealex4/status/1927729381566259353)
 <!-- This is repeated from last month because we didn't have enough time to cover all the topics and I really want to talk about these. -->
 * [Summary of the CTV scriptSig trick for BitVM bridges](https://x.com/robin_linus/status/1910149061359116596)
 * [Thunderbolt: A Formally Verified Protocol for Off-Chain Bitcoin Transfers](https://eprint.iacr.org/2025/709)
