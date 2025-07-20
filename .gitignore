@@ -30,3 +30,8 @@ Gemfile.lock
 
 node_modules/
 package-lock.json
+# SpecStory explanation file
+.specstory/.what-is-this.md
+
+# Env
+.env
