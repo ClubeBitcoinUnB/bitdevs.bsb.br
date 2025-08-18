@@ -7,6 +7,21 @@
 # ]
 # ///
 
+"""
+This script scrapes the GitHub issues from the ClubeBitcoinUnB/BitDevsBSB repository and generates an agenda for the next meeting.
+
+You'll need to have `uv` installed and add an .env file with the following variables:
+
+GITHUB_TOKEN=your_github_token
+OPENROUTER_API_KEY=your_openrouter_api_key
+
+Usage:
+```bash
+brew install uv # if you don't have uv installed
+uv run --script aux/agenda_generator.py 
+```
+"""
+
 import json
 import logging
 import os
@@ -20,9 +35,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# lm = dspy.LM(model="openai/gpt-4o-mini")
+API_URL = "https://api.github.com/repos/ClubeBitcoinUnB/BitDevsBSB/issues"
+
+
 lm = dspy.LM(
-    model="openrouter/deepseek/deepseek-r1-0528-qwen3-8b",
+    model="openrouter/deepseek/deepseek-r1-0528-qwen3-8b:free",
     api_base="https://openrouter.ai/api/v1",
     api_key=os.getenv("OPENROUTER_API_KEY"),
 )
@@ -56,7 +73,16 @@ def get_text(comment: str, link: str) -> str:
 
 
 def is_date(title: str) -> bool:
-    return dspy.Predict("title: str -> is_date: bool")(title=title).is_date
+    date_grams = [
+        "jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez", # Portuguese
+        "jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec", # English
+    ]
+    for gram in date_grams:
+        if gram in title.lower():
+            return True
+    return False
+    # if above fails, the following is more flexible, as it uses a LLM to infer the date:
+    # return dspy.Predict("title: str -> is_date: bool")(title=title).is_date
 
 # Original function
 get_theme_text_link = dspy.Predict("comment: str -> theme: THEMES, exact_text: str, link: str", 
@@ -72,8 +98,7 @@ def scrape_github_issues_api():
     token = os.getenv('GITHUB_TOKEN')  # Add this to your .env file
     headers = {'Authorization': f'token {token}'} if token else {}
     
-    url = "https://api.github.com/repos/BitDevsBSB/BitDevsBSB/issues"
-    response = requests.get(url, headers=headers)
+    response = requests.get(API_URL, headers=headers)
     response.raise_for_status()
     
     issues = response.json()
@@ -91,13 +116,13 @@ def scrape_issue_comments_api(issue_number):
     headers = {'Authorization': f'token {token}'} if token else {}
     
     # Get issue details
-    issue_url = f"https://api.github.com/repos/BitDevsBSB/BitDevsBSB/issues/{issue_number}"
+    issue_url = f"{API_URL}/{issue_number}"
     issue_response = requests.get(issue_url, headers=headers)
     issue_response.raise_for_status()
     issue_data = issue_response.json()
     
     # Get comments
-    comments_url = f"https://api.github.com/repos/BitDevsBSB/BitDevsBSB/issues/{issue_number}/comments"
+    comments_url = f"{API_URL}/{issue_number}/comments"
     comments_response = requests.get(comments_url, headers=headers)
     comments_response.raise_for_status()
     comments_data = comments_response.json()
@@ -127,16 +152,65 @@ def scrape_issue_comments_api(issue_number):
     
     return all_comments, issue_data['title']
 
+def list_to_dict(agenda_items: list[dict[THEMES, str]]) -> dict[THEMES, list[str]]:
+    agenda_dict = defaultdict(list)
+    for item in agenda_items:
+        if item['link'] and item['text']:
+            bullet_point = f"* [{item['text']}]({item['link']})"
+        elif item['text']:
+            bullet_point = f"* {item['text']}"
+        elif item['link']:
+            bullet_point = f"* {item['link']}"
+        else:
+            continue
+        agenda_dict[item['theme']].append(bullet_point)
+    return agenda_dict
+
+def generate_agenda(agenda_dict: dict[THEMES, list[str]]) -> dict:
+    agenda = ""
+    if 'not technical' in agenda_dict:
+        agenda += "### Aquecimento\n"
+        agenda += "\n".join(agenda_dict['not technical'])
+        agenda += "\n\n"
+    if 'Bitcoin L1' in agenda_dict:
+        agenda += "### Bitcoin L1\n"
+        agenda += "\n".join(agenda_dict['Bitcoin L1'])
+        agenda += "\n\n"
+    if 'Lightning and L2' in agenda_dict:
+        agenda += "### Lightning and L2\n"
+        agenda += "\n".join(agenda_dict['Lightning and L2'])
+        agenda += "\n\n"
+    if 'Ecash' in agenda_dict:
+        agenda += "### Ecash\n"
+        agenda += "\n".join(agenda_dict['Ecash'])
+        agenda += "\n\n"
+    if 'Mining' in agenda_dict:
+        agenda += "### Mineração\n"
+        agenda += "\n".join(agenda_dict['Mining'])
+        agenda += "\n\n"
+    if 'Security' in agenda_dict:
+        agenda += "### Criptografia e Segurança\n"
+        agenda += "\n".join(agenda_dict['Security'])
+        agenda += "\n\n"
+    if 'Other' in agenda_dict:
+        agenda += "### Outros\n"
+        agenda += "\n".join(agenda_dict['Other'])
+        agenda += "\n\n"
+    return agenda
+    
+    
+
 def main():
     log_filename = 'aux/agenda_generator.log'
     json_filename = 'aux/agenda.json'
+    md_filename = 'aux/agenda.md'
 
     logging.basicConfig(filename=log_filename,
                         level=logging.INFO,
                         format='%(asctime)s - %(levelname)s - %(message)s',
                         filemode='w')
 
-    logging.info("Scraping GitHub issues from BitDevsBSB/BitDevsBSB...")
+    logging.info("Scraping GitHub issues from ClubeBitcoinUnB/BitDevsBSB...")
 
     try:
         issue_number = scrape_github_issues_api()
@@ -155,9 +229,8 @@ def main():
             logging.info("Content:")
             logging.info(comment['content'])
 
-            comment_content = comment['content']
-            link = get_link(comment_content)
-            text = get_text(comment_content, link)
+            link = get_link(comment['content'])
+            text = get_text(comment['content'], link)
             theme_prediction = get_theme(comment_text=text)
 
             agenda_items.append({
@@ -172,20 +245,13 @@ def main():
             logging.info(f"  Link: {link}")
             logging.info("-" * 40)
 
-        themed_agenda = defaultdict(list)
-        for item in agenda_items:
-            if item['link'] and item['text']:
-                bullet_point = f"* [{item['text']}]({item['link']})"
-            elif item['text']:
-                bullet_point = f"* {item['text']}"
-            elif item['link']:
-                bullet_point = f"* {item['link']}"
-            else:
-                continue
-            themed_agenda[item['theme']].append(bullet_point)
-
+        agenda_dict = list_to_dict(agenda_items)
         with open(json_filename, 'w', encoding='utf-8') as f:
-            json.dump(themed_agenda, f, ensure_ascii=False, indent=4)
+            json.dump(agenda_dict, f, ensure_ascii=False, indent=4)
+
+        agenda = generate_agenda(agenda_dict)
+        with open(md_filename, 'w', encoding='utf-8') as f:
+            f.write(agenda)
 
         success_message = f"Successfully generated agenda and saved to {json_filename}"
         logging.info(success_message)
