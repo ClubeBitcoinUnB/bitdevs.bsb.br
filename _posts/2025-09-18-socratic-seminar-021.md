@@ -26,6 +26,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/311039829/
 ## Cronograma
 
 ### Aquecimento
+* [Nova turma do Bitcoin Dev Launchpad by Vinteum](https://vinteum.org/bdl)
 * [bitchat (estável e funcionando tb para android)](https://bitchat.free/)
 * [TBT - Antonopoulos about spam txs(2016)](https://www.youtube.com/watch?v=Y2IO6m5E_MM)
 * [𝚡𝟺𝟶𝟸-𝚖𝚌𝚙](https://x.com/vercel/status/1966549876289999173)
