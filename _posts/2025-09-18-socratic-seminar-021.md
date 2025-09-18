@@ -29,6 +29,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/311039829/
 * [Nova turma do Bitcoin Dev Launchpad by Vinteum](https://vinteum.org/bdl)
 * [New Krux Release](https://github.com/selfcustody/krux/releases/tag/v25.09.0)
 * [bitchat (estável e funcionando tb para android)](https://bitchat.free/)
+    * [Nym Bar: bitchat no navegador](https://nym.bar)
 * [TBT - Antonopoulos about spam txs(2016)](https://www.youtube.com/watch?v=Y2IO6m5E_MM)
 * [𝚡𝟺𝟶𝟸-𝚖𝚌𝚙](https://x.com/vercel/status/1966549876289999173)
 
