@@ -38,11 +38,11 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/311039829/
 * [Elliptic Curve OpCodes](https://github.com/bitcoin/bips/pull/1945)
 * [Utreexo BIPs numbers](https://x.com/murchandamus/status/1962884941886443740)
 * [Most Knots nodes are fake?](https://x.com/callebtc/status/1966957840246923656)
+
+### Lightning and L2
 * [Glock: Garbled Locks for Bitcoin](https://cdn.prod.website-files.com/67cfca80708eb505376820af/68a3e174eaff71d197ac4080_glock.pdf)
 * [Record proving time for block headers using STARKs](https://xcancel.com/dimahledba/status/1965069234985439331)
 * [Utreexo can "transfer validation" between devices](https://x.com/Erik17192799/status/1965900310733316382)
-
-### Lightning and L2
 * [USDT on Bitcoin using CSV RGB](https://x.com/BitcoinNewsCom/status/1961042826017349929)
 * [A survey of bitcoin yield: What's the opportunity cost of Ark liquidity?](https://blog.second.tech/survey-of-bitcoin-yield/)
 
