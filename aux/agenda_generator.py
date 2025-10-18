@@ -1,3 +1,5 @@
+#!/usr/bin/env -S uv run --script --python 3.12.3 
+#
 # /// script
 # requires-python = ">=3.11"
 # dependencies = [
@@ -19,6 +21,9 @@ Usage:
 ```bash
 brew install uv # if you don't have uv installed
 uv run --script aux/agenda_generator.py 
+# or just
+chmod +x aux/agenda_generator.py
+./aux/agenda_generator.py
 ```
 """
 
