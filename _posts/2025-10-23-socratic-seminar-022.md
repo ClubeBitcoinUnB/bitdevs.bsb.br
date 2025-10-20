@@ -27,6 +27,7 @@ meetup: https://www.meetup.com/brasilia-bitcoin/events/311602607/
 
 ### Aquecimento
 * [vagas sobrando no hostel durante a São Paulo Bitcoin Week](https://x.com/Vinteum_org/status/1977857939588169868)
+* [Workshop de Cashu do Edil](https://github.com/edilmedeiros/cashu-workshop)
 * [Floresta on the go?](https://github.com/jvsena42/floresta_node)
 * [A Guerra dos Nós: o que a briga Core vs. Knots - Explica Bitcoin](https://www.youtube.com/watch?v=j1fPXbsvMGU)
 * [Bitcoin Core or Bitcoin Knots? What the OP_RETURN debate is actually about](https://bitcoinmagazine.com/technical/bitcoin-core-or-bitcoin-knots-what-the-op_return-debate-is-actually-about)
