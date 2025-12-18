@@ -27,7 +27,7 @@ meetup: https://evento.so/p/evt_KfXGi6EfbttacxHd
 
 ### Aquecimento
 * [Bitcoin Optech newsletter #384](https://bitcoinops.org/en/newsletters/2025/12/12/)
-
+* ["The Definitive Guide to Bitcoin Inheritance" da Nunchuk](https://nunchuk.io/blog/bitcoin-inheritance-guide)
 
 ### Bitcoin L1
 * [Bitcoin Core version v30.1rc1](https://github.com/bitcoin/bitcoin/blob/v30.1rc1/doc/release-notes.md)
@@ -46,6 +46,7 @@ meetup: https://evento.so/p/evt_KfXGi6EfbttacxHd
 
 
 ### Criptografia e Segurança
+* [An interactive, step-by-step tutorial to understand STARK proofs intuitively](https://floatingpragma.io/starklab/)
 * [A virtualized secure enclave for hardware signing devices](https://bitcoinops.org/en/newsletters/2025/12/12/#a-virtualized-secure-enclave-for-hardware-signing-devices)
 * [ML-DSA based BIP-32 for lattices in post-quantum Bitcoin](https://x.com/roasbeef/status/1998549686463152229)
 * [Why do different implementations produce different DER signatures for the same private key and hash?](https://bitcoin.stackexchange.com/questions/129270/why-do-different-implementations-produce-different-der-signatures-for-the-same-p)
