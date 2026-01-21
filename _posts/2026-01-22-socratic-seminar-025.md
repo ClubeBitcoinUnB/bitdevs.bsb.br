@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminário Socrático 025"
-meetup: https://evento.so/p/evt_KfXGi6EfbttacxHd
+meetup: https://evento.so/p/evt_Tf8r1iqiqZPuTP66
 ---
 
 ## Avisos
