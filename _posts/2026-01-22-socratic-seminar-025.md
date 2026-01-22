@@ -27,6 +27,7 @@ meetup: https://evento.so/p/evt_Tf8r1iqiqZPuTP66
 
 ### Aquecimento
 * [HRF Hackathon Winner](https://stringersafety.com/)
+* [Como funciona e como usar a nova versão da [@spiketospike](https://x.com/spiketospike) baseada em NOSTR](https://x.com/joaotrein/status/2014426633021567436)
 * [US Senator introduces Bill to protect devs](https://x.com/BitcoinMagazine/status/2010843119596531945)
 * [2026 annual Bitcoin ecosystem report](https://x.com/ericyakes/status/2013637196775825621)
 * [Bitchat: mesh Bluetooth messenger on Nostr used during Uganda internet shutdowns](https://x.com/callebtc/status/2011339844623221224)
