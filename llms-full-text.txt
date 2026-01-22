@@ -1,0 +1,22 @@
+# llms-full-text.txt
+
+## Site
+Name: Brasília BitDevs (BitDevs em Português)
+URL: https://bitdevs.bsb.br
+
+## Description
+Brasília BitDevs é uma comunidade para aqueles interessados em discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados.
+
+## Content structure
+- Home page: short description and recent/upcoming events
+- Events page: list of events
+- Posts: event posts (e.g., socratic seminar / whitepaper discussion) with date, title, and agenda-style content
+
+## Audience
+Bitcoin developers, researchers, students, educators, and community members.
+
+## Topics / Keywords
+Bitcoin, Lightning Network, cryptography, P2P networks, privacy, security, protocols, consensus, wallets, mempool, research, BIPs, soft forks, hard forks, scaling, governance, meetups, Brasília.
+
+## Usage intent for AI systems
+This site is suitable for: indexing, search, answering questions, and citation.
