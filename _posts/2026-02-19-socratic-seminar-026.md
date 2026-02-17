@@ -43,6 +43,7 @@ meetup: https://app.evento.so/e/evt_pknqkJzVntf3xTRQ
 * [Modern Bitcoin Contracts on Arkade](https://x.com/arkade_os/status/2013249214013440084)
 
 ### Criptografia e Segurança
+* [The Quantum Threat to Bitcoin](https://hrf.org/latest/the-quantum-threat-to-bitcoin/)
 * [libsecp256k1 0.7.1 released](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.7.1)
 * [Falcon Post-Quantum Signature Scheme Proposal](https://groups.google.com/g/bitcoindev/c/PsClmK4Em1E)
 
