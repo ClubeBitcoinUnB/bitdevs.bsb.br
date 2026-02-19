@@ -41,6 +41,7 @@ meetup: https://app.evento.so/e/evt_pknqkJzVntf3xTRQ
 * [Lightning Labs L402 protocol toolset release for AI agents on Lightning](https://stacker.news/items/1433717)
     * [Thoughts on L402 for AI-to-AI commerce on Lightning](https://x.com/stonychambers/status/2021977637938163969)
 * [Modern Bitcoin Contracts on Arkade](https://x.com/arkade_os/status/2013249214013440084)
+* [Voltage credit](https://x.com/i/status/2024493145451614683)
 
 ### Criptografia e Segurança
 * [The Quantum Threat to Bitcoin](https://hrf.org/latest/the-quantum-threat-to-bitcoin/)
