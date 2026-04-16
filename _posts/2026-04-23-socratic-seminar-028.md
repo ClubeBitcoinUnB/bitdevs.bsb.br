@@ -29,6 +29,7 @@ meetup: https://app.evento.so/e/evt_Vxg654Hj8g5vJdmd
 * [Stealth - BTC++ Hackathon](https://loot.fund/hackathons/bitcoin-exploits-edition/applications/8)
 * [Vinteum contrata Head of Operations em São Paulo para escalar grants e suporte a devs Bitcoin](https://x.com/Vinteum_org/status/2041578720297644149)
 * [Vinteum apoia Hack4Freedom 2026: treinamento de devs em São Paulo (julho) + Lagos](https://x.com/Vinteum_org/status/2040118075622597022)
+* [Spiral Hack-Nation global AI hackathon challenge (Apr 25–26)](https://x.com/spiralbtc/status/2044455340771553754)
 * [Bitcoin Optech newsletter #400 / 400 newsletters de Bitcoin Optech](https://x.com/i/status/2042553456741831039)
 * [Geopolítica / adoção estatal: thread discutindo Iran, Rússia, BRICS e Bitcoin como settlement / reserva](https://x.com/i/status/2042347553530794231)
 * [Bitcoin Research Day prize: indicações abertas (MIT Bitcoin Club)](https://x.com/i/status/2043413847747277261)
