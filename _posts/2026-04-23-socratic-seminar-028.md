@@ -50,7 +50,7 @@ meetup: https://app.evento.so/e/evt_Vxg654Hj8g5vJdmd
 * [Duplicate transaction bug explained: BIP 30 → BIP 34 → BIP 54](https://x.com/i/status/2042615480888742066)
 * [BIP47 payment codes via Ordinals: diretório descentralizado e resistente à censura para payment codes](https://x.com/i/status/2040907206837825797)
 * [BIP376 publicado: Spending Silent Payment Outputs with PSBTs](https://x.com/i/status/2042727049484472407)
-* [BIP322: Oli Guggero quer assumir responsabilidade (PR com pendências)](https://github.com/bitcoin/bips/pull/2141)
+* [BIP322: assinar mensagens provando controle de um UTXO (proof of funds)](https://github.com/bitcoin/bips/pull/2141)
   * https://x.com/i/status/2044775568345022570
 * [Signet: lentidão de validação e propagação de blocos (b10c)](https://x.com/0xB10C/status/2044432330706538689)
 * [Hornet Update: A declarative executable specification of Bitcoin consensus rules](https://x.com/bitcoindudebro/status/2044553522470146298)
