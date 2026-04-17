@@ -34,6 +34,8 @@ meetup: https://app.evento.so/e/evt_Vxg654Hj8g5vJdmd
 * [Geopolítica / adoção estatal: thread discutindo Iran, Rússia, BRICS e Bitcoin como settlement / reserva](https://x.com/i/status/2042347553530794231)
 * [Bitcoin Research Day prize: indicações abertas (MIT Bitcoin Club)](https://x.com/i/status/2043413847747277261)
 * [My Bitcoin Will: kit de testamento para autocustódia](https://x.com/i/status/2044284042737242622)
+* [SparkStalker: novo tool (pSacramento)](https://sparkstalker.vercel.app)
+  * https://x.com/i/status/2044521989482614848
 
 ### Bitcoin L1
 * [Utreexo Update](https://x.com/tdryja/status/2040085794635788702)
@@ -48,6 +50,8 @@ meetup: https://app.evento.so/e/evt_Vxg654Hj8g5vJdmd
 * [Duplicate transaction bug explained: BIP 30 → BIP 34 → BIP 54](https://x.com/i/status/2042615480888742066)
 * [BIP47 payment codes via Ordinals: diretório descentralizado e resistente à censura para payment codes](https://x.com/i/status/2040907206837825797)
 * [BIP376 publicado: Spending Silent Payment Outputs with PSBTs](https://x.com/i/status/2042727049484472407)
+* [BIP322: assinar mensagens provando controle de um UTXO (proof of funds)](https://github.com/bitcoin/bips/pull/2141)
+  * https://x.com/i/status/2044775568345022570
 * [Signet: lentidão de validação e propagação de blocos (b10c)](https://x.com/0xB10C/status/2044432330706538689)
 * [Hornet Update: A declarative executable specification of Bitcoin consensus rules](https://x.com/bitcoindudebro/status/2044553522470146298)
 
