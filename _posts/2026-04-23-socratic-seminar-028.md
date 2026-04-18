@@ -42,6 +42,7 @@ meetup: https://app.evento.so/e/evt_Vxg654Hj8g5vJdmd
 
 ### Bitcoin L1
 * [Utreexo Update](https://x.com/tdryja/status/2040085794635788702)
+* [How Wallet Fingerprints Damage Payjoin Privacy](https://payjoin.org/blog/2026/03/25/wallet-fingerprints-payjoin-privacy/)
 * [BIP 361 - Proposta de Migração Pós-Quântica](https://bip361.org/)
 * [Three new BIPs published](https://x.com/murchandamus/status/2041614289405145247)
   * [BIP 393: Output Script Descriptor Annotations](https://github.com/bitcoin/bips/blob/master/bip-0393.mediawiki)
