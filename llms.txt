@@ -1,0 +1,22 @@
+# llms.txt — AI Content Policy (Política para IAs)
+
+## Allowed / Permitido
+All public content on https://bitdevs.bsb.br is allowed for:
+- AI-powered search and answer generation
+- Citation and reference in AI-generated responses
+- Indexing for discovery
+
+Todo o conteúdo público em https://bitdevs.bsb.br pode ser usado para:
+- Busca com IA e geração de respostas
+- Citação e referência em respostas geradas por IA
+- Indexação para descoberta
+
+## Disallowed / Não permitido
+- None explicitly. If a path is added in the future for private content, it will be excluded via robots.txt.
+
+## About the site / Sobre o site
+Brasília BitDevs: comunidade para discutir e participar na pesquisa e desenvolvimento do Bitcoin e protocolos relacionados.
+
+## Primary content / Conteúdo principal
+- Event announcements and agendas (posts)
+- Links to meetup/community resources
