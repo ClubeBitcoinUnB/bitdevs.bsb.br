@@ -35,6 +35,7 @@ meetup: https://app.evento.so/e/evt_Vxg654Hj8g5vJdmd
 * [Spiral Hack-Nation global AI hackathon challenge (Apr 25–26)](https://x.com/spiralbtc/status/2044455340771553754)
 * [Bitcoin Optech newsletter #400 / 400 newsletters de Bitcoin Optech](https://x.com/i/status/2042553456741831039)
 * [Geopolítica / adoção estatal: thread discutindo Iran, Rússia, BRICS e Bitcoin como settlement / reserva](https://x.com/i/status/2042347553530794231)
+* [Admiral Paparo announces that the U.S. military is running a Bitcoin node](https://x.com/i/status/2047003495358693460)
 * [Bitcoin Research Day prize: indicações abertas (MIT Bitcoin Club)](https://x.com/i/status/2043413847747277261)
 * [My Bitcoin Will: kit de testamento para autocustódia](https://x.com/i/status/2044284042737242622)
 * [SparkStalker: novo tool (pSacramento)](https://sparkstalker.vercel.app)
