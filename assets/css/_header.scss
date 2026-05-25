@@ -12,7 +12,7 @@
     &-inner {
         display: flex;
         justify-content: space-between;
-        align-items: left;
+        align-items: flex-start;
         padding: 1rem 1rem;
         flex-direction: column;
         max-width: 400px;
@@ -21,6 +21,7 @@
         @media (min-width: 768px) {
             max-width: 100%;
             flex-direction: row;
+            align-items: center;
             padding: 1rem 1rem;
         }
     }
@@ -28,69 +29,83 @@
     &-logo {
         font-size: 1.6rem;
         display: flex;
-        align-items: center;
-        position: relative;
+        align-items: flex-start;
         margin-bottom: 1rem;
+        width: 100%;
 
         @media (min-width: 768px) {
             font-size: 2.2rem;
             margin-bottom: 0;
+            width: auto;
         }
 
         a {
             display: flex;
             align-items: center;
+            gap: 1.25rem;
             text-decoration: none;
+            width: 100%;
+
+            @media (min-width: 768px) {
+                display: inline-flex;
+                align-items: flex-start;
+                width: auto;
+            }
         }
     }
 
     &-logo-image {
-        width: 30px;
+        width: 3.5rem;
         height: auto;
-        position: absolute;
-        top: -5px;
+        flex: 0 0 auto;
+        margin-top: 0;
 
         @media (min-width: 768px) {
-            top: -2px;
+            width: 4rem;
+            margin-top: 0.25rem;
         }
     }
 
     &-logo-text {
-        margin-left: 5rem;
+        display: block;
         font-size: 2.1rem;
+        line-height: 1.05;
+        margin: 0;
+        min-width: 0;
+        max-width: calc(100% - 4.75rem);
+        overflow-wrap: anywhere;
+
         @media (min-width: 768px) {
-            margin-left: 4.25rem;
+            font-size: 2.2rem;
+            max-width: none;
         }
     }
 
     &-nav {
         display: flex;
-        font-size: 1.1rem;
         align-items: center;
+        align-self: stretch;
+        flex-wrap: wrap;
+        gap: 0.75rem 1.25rem;
+        font-size: 1.1rem;
         width: 100%;
-        justify-content: space-between;
+        justify-content: flex-start;
         margin-top: 0.5rem;
 
         @media (min-width: 768px) {
             font-size: 1.3rem;
-            width: auto;
-            justify-content: flex-start;
+            width: 100%;
+            max-width: 42rem;
+            justify-content: flex-end;
             margin-top: 0;
         }
 
         a {
             color: var(--font-color);
             opacity: 0.4;
-            margin-right: 1rem;
-
-            @media (min-width: 768px) {
-                margin-right: 0;
-                margin-left: 1.5rem;
-            }
-
-            &:last-child {
-                margin-right: 0;
-            }
+            line-height: 1.2;
+            margin: 0;
+            white-space: nowrap;
 
             &:hover {
                 color: var(--primary-color);

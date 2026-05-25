@@ -6,11 +6,11 @@
     cursor: pointer;
     width: 24px;
     height: 24px;
-    margin-left: 1.75rem;
-    margin-top: 5px;
+    margin: 0;
     color: var(--font-color);
     opacity: 0.4;
     position: relative;
+    flex: 0 0 auto;
 
     &:hover {
         opacity: 1;

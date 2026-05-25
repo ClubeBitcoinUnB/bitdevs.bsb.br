@@ -11,7 +11,7 @@ body {
     line-height: 1.5;
     background-color: var(--background-color);
     color: var(--font-color);
-    min-width: 342px;
+    min-width: 0;
 
     @media (max-width: $large-screen) {
         font-size: 14px;
@@ -30,6 +30,14 @@ body {
     max-width: 880px;
     margin: 0 auto;
     padding: 2rem;
+
+    @media (max-width: $mid-screen) {
+        padding: 1.5rem;
+    }
+
+    @media (max-width: $small-screen) {
+        padding: 1rem;
+    }
 }
 
 a {

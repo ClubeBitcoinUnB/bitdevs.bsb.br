@@ -33,22 +33,6 @@ $large-screen: 1024px;
 @import "blog";
 @import "theme";
 
-.Header-logo {
-    &-image {
-        height: 40px;
-        width: auto;
-
-        @media (max-width: $small-screen) {
-            height: 30px;
-        }
-    }
-}
-.Header-logo-image {
-    align-self: center;
-    margin-top: 5px;
-    scale: 150%;
-}
-
 :root {
     --primary-color: #{$light-primary-color};
     --background-color: #{$light-background-color};
