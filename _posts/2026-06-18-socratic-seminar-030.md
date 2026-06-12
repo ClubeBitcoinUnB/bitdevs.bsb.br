@@ -35,7 +35,7 @@ meetup: https://app.evento.so/e/evt_sLX1pH1U4RMYxshV
     * [ChainQuery Quantum Exposure Report](https://chainquery.com/reports/quantum-exposure)
 * [Floresta x BTCPayServer: plugin integrando node Floresta ao BTCPayServer](https://github.com/thgO-O/btcpayserver-plugin-floresta)
 * [The Chaincode BOSS Challenge: projetos de portfólio e highlights](https://bosschallenge.xyz/portfolioprojects)
-    * https://x.com/bitcoin_devs/status/2057560810969305305
+    * [bitcoin_devs thread sobre os highlights do BOSS Challenge](https://x.com/bitcoin_devs/status/2057560810969305305)
 * [Consensus Cleanup is Complete — Last Week in Bitcoin (May 18 - 24)](https://x.com/btcinsider__/status/2058912185640735181?s=20)
 
 ### Bitcoin L1
