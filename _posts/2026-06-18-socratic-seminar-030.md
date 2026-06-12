@@ -30,6 +30,7 @@ meetup: https://app.evento.so/e/evt_sLX1pH1U4RMYxshV
 
 ### Aquecimento
 * [Bitcoin Optech Newsletter #408 (Jun 5, 2026)](https://bitcoinops.org/en/newsletters/2026/06/05/)
+* [OpenAuspex: Bitcoin-anchored warrant canaries for Nostr](https://www.openauspex.dev/)
 * [Jameson Lopp on Quantum Exposure Analysis](https://x.com/lopp/status/2065088247340933179)
     * [ChainQuery Quantum Exposure Report](https://chainquery.com/reports/quantum-exposure)
 * [Floresta x BTCPayServer: plugin integrando node Floresta ao BTCPayServer](https://github.com/thgO-O/btcpayserver-plugin-floresta)
