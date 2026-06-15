@@ -37,6 +37,7 @@ meetup: https://app.evento.so/e/evt_sLX1pH1U4RMYxshV
 * [The Chaincode BOSS Challenge: projetos de portfólio e highlights](https://bosschallenge.xyz/portfolioprojects)
     * [bitcoin_devs thread sobre os highlights do BOSS Challenge](https://x.com/bitcoin_devs/status/2057560810969305305)
 * [Consensus Cleanup is Complete — Last Week in Bitcoin (May 18 - 24)](https://x.com/btcinsider__/status/2058912185640735181?s=20)
+* [Primeiros pagamentos Bitcoin com provas de conhecimento zero via Lightning no BTC Prague](https://x.com/i/status/2066505218167071229)
 
 ### Bitcoin L1
 * [Bitcoin Core v31.0 Release](https://bitcoincore.org/en/releases/31.0/)
