@@ -59,6 +59,7 @@ meetup: https://app.evento.so/e/evt_Vxg654Hj8g5vJdmd
   * https://x.com/i/status/2044775568345022570
 * [Signet: lentidão de validação e propagação de blocos (b10c)](https://x.com/0xB10C/status/2044432330706538689)
 * [Hornet Update: A declarative executable specification of Bitcoin consensus rules](https://x.com/bitcoindudebro/status/2044553522470146298)
+* [The first Bitcoin Taproot spend transactions](https://blog.jaonoctus.dev/2026-06-17-first-bitcoin-taproot-spend-transactions)
 
 ### Lightning and L2
 * [CLN upgrade](https://x.com/Core_LN/status/2042125203950784999)
