@@ -30,6 +30,8 @@ meetup: https://app.evento.so/e/evt_rZxZqjaNzJyudrVC
 
 ### Aquecimento
 * [Primeiro bloco Stratum V2 criado pelo minerador em um pool](https://x.com/i/status/2070133045773103376)
+* [Luca Demos Second's new Bark plugin for BTCPay](https://x.com/BtcpayServer/status/2077049443778429181)
+* [Block Delivery Network: dados do Bitcoin para light clients via HTTP(S)](https://block-dn.org/)
 
 ### Bitcoin L1
 * [Fountain codes para permitir que nós podados contribuam para o Initial Block Download](https://bitcoinops.org/en/newsletters/2026/07/10/#using-fountain-codes-for-ibd)
