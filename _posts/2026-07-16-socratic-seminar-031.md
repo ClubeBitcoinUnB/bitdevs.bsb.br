@@ -34,6 +34,7 @@ meetup: https://app.evento.so/e/evt_rZxZqjaNzJyudrVC
 * [Block Delivery Network: dados do Bitcoin para light clients via HTTP(S)](https://block-dn.org/)
 
 ### Bitcoin L1
+* [Coinswap: swaps atômicos sem confiança para desvincular o histórico dos UTXOs](https://x.com/i/status/2077328373148524775)
 * [Fountain codes para permitir que nós podados contribuam para o Initial Block Download](https://bitcoinops.org/en/newsletters/2026/07/10/#using-fountain-codes-for-ibd)
 * [Bitcoin Core 31.1: correção do vazamento de IP no private broadcast](https://bitcoincore.org/en/releases/31.1/#privatebroadcast)
 * [Bitcoin Core #32489: merge do RPC para exportar uma carteira watch-only](https://github.com/bitcoin/bitcoin/pull/32489)
