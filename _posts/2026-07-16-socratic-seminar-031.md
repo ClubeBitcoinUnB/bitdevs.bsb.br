@@ -64,6 +64,7 @@ meetup: https://app.evento.so/e/evt_rZxZqjaNzJyudrVC
 
 ### Criptografia e Segurança
 * [Radar.Chat combina mensagens criptografadas com pagamentos em Bitcoin](https://x.com/i/status/2074960464996442489)
+* [Maelstrom concede grant a Tadge Dryja para defesa pós-quântica do Bitcoin](https://x.com/maelstromfund/status/2077048928378470901)
 * [Benchmark de agregação STARK para verificações de assinaturas SLH-DSA](https://bitcoinops.org/en/newsletters/2026/07/03/#benchmarking-slh-dsa-stark-aggregation)
 * [Bird of Prey 2: assinaturas Schnorr e pós-quânticas híbridas não maleáveis](https://bitcoinops.org/en/newsletters/2026/07/03/#bird-of-prey-2-bop-2-non-malleable-schnorr-and-pq-signatures)
 * [Assinaturas baseadas em reticulados e o caminho pós-quântico do Bitcoin](https://bitcoinops.org/en/newsletters/2026/07/03/#lattice-based-signatures)
