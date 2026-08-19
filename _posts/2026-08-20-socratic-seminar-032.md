@@ -29,12 +29,11 @@ meetup: https://app.evento.so/e/evt_Ts4vALpRXkahFaaB
 ## Cronograma
 
 ### Aquecimento
-* [Wavelength: toolkit de pagamentos self-custodial com VTXOs](https://x.com/i/status/2079629513235795998)
 * [Satsconf anuncia pausa em 2026](https://x.com/satsconf_/status/2087520530488229912)
 * [Vinteum completa quatro anos apoiando Bitcoin open source](https://x.com/Vinteum_org/status/2086883771735806292)
 * [Vinteum assina carta aberta por acesso de defensores open-source a modelos de IA frontier](https://x.com/Vinteum_org/status/2086879740955140392)
 * [Floresta: roadmap Q2/Q3 com foco em confiabilidade e diagnóstico](https://www.getfloresta.org/blog/roadmap-Q2-Q3)
-* [Bitcoin Optech Newsletter #417](https://bitcoinops.org/en/newsletters/2026/08/07/)
+* [DuraShare: Backup Soberano de Bitcoin com Shamir](https://www.youtube.com/watch?v=joPEVzITwUk)
 
 ### Bitcoin L1
 * [Collaborative Launch do asmap-data](https://github.com/bitcoin-core/asmap-data/issues/63)
@@ -53,6 +52,7 @@ meetup: https://app.evento.so/e/evt_Ts4vALpRXkahFaaB
 * [Libsecp256k1 0.8.0 e PRs recentes](https://github.com/bitcoin-core/secp256k1/pulls)
 * [Novo marco do registro assume-valid: 950 mil blocos verificados em 23,5 minutos](https://x.com/i/status/2079061483653095594)
 * [Bitcoin Core: builds estáticos para teste a partir da infraestrutura Guix](https://bitcoinops.org/en/newsletters/2026/08/14/#static-bitcoin-core-binaries-available-for-testing)
+* [Wavelength: toolkit de pagamentos self-custodial com VTXOs](https://x.com/i/status/2079629513235795998)
 
 ### Mineração e Mempool
 * [RBF bots: 1,771 BTC consumidos em taxas de minerador](https://x.com/i/status/2087534668945989928)
