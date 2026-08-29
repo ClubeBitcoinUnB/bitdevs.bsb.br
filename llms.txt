@@ -1,0 +1,15 @@
+# Brasília BitDevs
+
+> Brasília BitDevs is a Brazilian Portuguese site for a Bitcoin technical meetup community, with event announcements, Socratic Seminar agendas, and related community links.
+
+This site is event-centric. Start with the site overview for context, then use the event archive and recent agenda summary to find meetup history and discussion topics.
+
+## Site
+
+- [Home overview](https://bitdevs.bsb.br/index.html.md): Community summary and the structure of the homepage.
+- [Events archive](https://bitdevs.bsb.br/events.html.md): Explains the archive page and how individual event posts are organized.
+- [Recent event agendas](https://bitdevs.bsb.br/recent-events.md): Direct links to the most recent seminar agenda pages.
+
+## Optional
+
+- [Site source repository](https://github.com/ClubeBitcoinUnB/bitdevs.bsb.br): Jekyll source for the website.
