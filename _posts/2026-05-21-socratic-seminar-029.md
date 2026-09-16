@@ -30,7 +30,7 @@ meetup: https://app.evento.so/e/evt_SsGDg8vASoNwvnuR
 
 ### Aquecimento
 * [@brenorb's Freedom Skills gets HRF funding](https://hrf.org/latest/hrfs-ai-fund-supports-10-innovative-projects/)
-* [Nova aba "Outras cidades"](https://bitdevs.bsb.br/cities)
+* [Nova aba "Outras cidades"](https://github.com/ClubeBitcoinUnB/bitdevs.bsb.br/pull/44)
   * PRs feitos para todos os outros Bitdevs do Brasil
 * [Nowhere, an entire website encoded in a URL hosted nowhere](https://x.com/i/status/2047480761352081919)
 * [Animated history of Bitcoin Script updates (2009-2026)](https://x.com/i/status/2055263255010988410)
